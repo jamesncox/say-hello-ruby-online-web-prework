@@ -1,3 +1,3 @@
-def say_hello(name = "Ruby Programmer")
-  puts "Hello #{name}!"
+def meal_choice(lunch = "meat")
+  puts "#{lunch}"
 end
